@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Software on Devajith</title>
+    <link>https://devajith.com/tags/software/</link>
+    <description>Recent content in Software on Devajith</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>See this site&#39;s source code [here](https://github.com/devajithvs/devajith.com), licensed under GPLv3 ·</copyright>
+    <lastBuildDate>Sun, 02 Jan 2022 12:12:39 +0000</lastBuildDate><atom:link href="https://devajith.com/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Play Piano on a PC Keyboard</title>
+      <link>https://devajith.com/blog/pc-keyboard-as-a-piano/</link>
+      <pubDate>Sun, 02 Jan 2022 12:12:39 +0000</pubDate>
+      
+      <guid>https://devajith.com/blog/pc-keyboard-as-a-piano/</guid>
+      <description>An idea/WIP that allows people to play (any) instruments on their laptop/pc</description>
+    </item>
+    
+  </channel>
+</rss>
