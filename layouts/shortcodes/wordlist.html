@@ -1,3 +1,15 @@
 <!-- {{(index (.Site.Data.wordlist) 0).word}} -->
-
-{{(getJSON "http://api.devajith.com/word").word}}
+<!-- {{(getJSON "http://api.devajith.com/word").word}} -->
+<span id="word_span">
+    <script>
+        async function getWord() {
+            const data = await fetch("https://api.devajith.com/word");
+            let word = await data.json();
+            word = word["word"];
+            document.getElementById("word_span").innerText = `"${word}" `; 
+            console.log(word);
+        }
+        getWord();
+    </script>
+</span>
+  

@@ -16,7 +16,7 @@ draft: False
 
 #### Improve my writing/language skills
 
-- I am not a good writer (evident from this blog), but I am constantly striving to be better. I learn a new word for every visitor this page has. If you see me next time, don't forget to ask me what the word "**{{< wordlist >}}**" means. This goes into my weekly learning log.
+- I am not a good writer (evident from this blog), but I am constantly striving to be better. I learn a new word for every visitor this page has. If you see me next time, don't forget to ask me what the word **{{< wordlist >}}** means. This goes into my weekly learning log.
 
 #### A scratchpad for my ideas
 
