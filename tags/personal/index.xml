@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blogs on Devajith</title>
-    <link>https://devajith.com/blog/</link>
-    <description>Recent content in Blogs on Devajith</description>
+    <title>Personal on Devajith</title>
+    <link>https://devajith.com/tags/personal/</link>
+    <description>Recent content in Personal on Devajith</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>See this site&#39;s source code [here](https://github.com/devajithvs/devajith.com), licensed under GPLv3 ·</copyright>
-    <lastBuildDate>Sat, 26 Feb 2022 12:57:39 +0000</lastBuildDate><atom:link href="https://devajith.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Feb 2022 12:57:39 +0000</lastBuildDate><atom:link href="https://devajith.com/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why do I have a blog</title>
       <link>https://devajith.com/blog/why-do-i-have-a-blog/</link>
@@ -14,24 +14,6 @@
       
       <guid>https://devajith.com/blog/why-do-i-have-a-blog/</guid>
       <description>Why? Get hired Who doesn&amp;rsquo;t want to get hired, I use this blog as a medium to attract great recruiters and companies who would potentially want to hire me. Improve my writing/language skills I am not a good writer (evident from this blog), but I am constantly striving to be better. I learn a new word for every visitor this page has. If you see me next time, don&amp;rsquo;t forget to ask me what the word &amp;ldquo; figurehead&amp;rdquo; means.</description>
-    </item>
-    
-    <item>
-      <title>Tweedisc, a twitter integration bot</title>
-      <link>https://devajith.com/blog/tweedisc/</link>
-      <pubDate>Thu, 20 Jan 2022 12:57:39 +0000</pubDate>
-      
-      <guid>https://devajith.com/blog/tweedisc/</guid>
-      <description>An application to use Twitter without leaving the comfort of Discord</description>
-    </item>
-    
-    <item>
-      <title>Play Piano on a PC Keyboard</title>
-      <link>https://devajith.com/blog/pc-keyboard-as-a-piano/</link>
-      <pubDate>Sun, 02 Jan 2022 12:12:39 +0000</pubDate>
-      
-      <guid>https://devajith.com/blog/pc-keyboard-as-a-piano/</guid>
-      <description>An idea/WIP that allows people to play (any) instruments on their laptop/pc</description>
     </item>
     
   </channel>
