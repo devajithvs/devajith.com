@@ -1,29 +1,31 @@
 ---
 title: Why do I have a blog
-description: Post explaining why I have a blog and the benefits of having one
+description: 
 tags: 
     - Personal
     - Blog
-date: 2022-01-26 12:57:39
-draft: True
+date: 2022-02-26 12:57:39
+draft: False
 ---
 
-I've been thinking about this a lot lately. I'll list down the reasons why I chose to write this blog.
+### Why?
 
-## Ideas ideas and ideas
+#### Get hired
 
-- I sometimes have this Eureka moment where I come up with ideas (sometimes dumb, sometimes great). But if I don't write it down, I forget it the next day. Now that I have a blog, I write all my ideas on a scratchpad. If it's worth exploring, I'll write a blog post and start doing the project.
+- Who doesn't want to get hired, I use this blog as a medium to attract great recruiters and companies who would potentially want to hire me.
 
-## Break the silence
+#### Improve my writing/language skills
 
-- I believed in "Work hard in silence. Let your success (Ferrari) make the noise". The idea is to shock people with your progress by not showing them what you do. That is not a very optimal approach. To succeed, you need to make my noise heard. If you work hard and still fail, at least you've proved that you're capable of building things.
+- I am not a good writer (evident from this blog), but I am constantly striving to be better. I learn a new word for every visitor this page has. If you see me next time, don't forget to ask me what the word "**{{< wordlist >}}**" means. This goes into my weekly learning log.
 
-## A note to my future self
+#### A scratchpad for my ideas
+
+- I sometimes have this Eureka moment where I come up with ideas (mostly dumb). But if I don't write it down, I forget it the next day. Now that I have a blog, I write all my ideas on a scratchpad. If it's worth exploring, I'll write a blog post and start doing the project.
+
+#### As a note to my future self
 
 - If I look back in 10 years. I have a record of what I did and I can (hopefully) let myself know that pursuing my passion was worth it and that I did not waste my time.
 
 - I keep draft posts as a place to dump my thoughts. Sometimes, it might be worth looking back.
 
-## Improve my language skills
 
-- I am not a good writer (evident from this post), but I am constantly trying to be better and I learn new words every day.
