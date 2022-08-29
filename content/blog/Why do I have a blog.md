@@ -12,7 +12,7 @@ draft: False
 
 #### Get hired
 
-- Who doesn't want to get hired, I use this blog as a medium to attract great recruiters and companies who would potentially want to hire me.
+- I use this blog as a medium to attract great recruiters and companies who would potentially want to hire me.
 
 #### Improve my writing/language skills
 
