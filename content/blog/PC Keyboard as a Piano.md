@@ -10,31 +10,35 @@ date: 2022-01-02 12:12:39
 ---
 
 Interesting idea, but this is still a work in progress.
-
 ## Motivation
 
-I love singing and playing instruments. But currently, I am a broke university student who cannot afford a piano or a guitar. On the bright side, I love coding and have a computer with a keyboard.
+So, picture this: I'm a broke university student who loves singing and playing instruments, but can't afford a piano or a guitar. But fear not! I've got a computer with a keyboard, and I'm a coding enthusiast.
 
-The idea struck me and ergo I did an analysis, mostly on pianos. A classical piano has 88 keys. A regular computer keyboard (US) has 101 keys. It is possible to do a one-to-one mapping of the keys. But some laptop keyboards have fewer keys. Also, we must refrain from using some function keys as it might wreck the computer settings.
+So I thought, why not combine my love for music and coding? And thus, the idea was born to play piano with a computer keyboard! But of course, it's still a work in progress, so bear with me here.
+
+Now, I did some serious analysis, mostly on pianos. Did you know a classical piano has 88 keys, but a regular computer keyboard has 101 keys? Talk about a close match! But wait, some laptop keyboards have fewer keys, and we can't mess with those function keys, or we risk wrecking our computer settings. 
+
 
 ## What is a way to play piano with fewer keyboard keys?
 
-Let's assume that we only have the character keys (26), numbers (10), and special keys (10) at our disposal. The good thing about a computer keyboard is that we can use combinations instead of just having one key typed at a time. We can cover the entire keyboard with precisely 44 characters by taking other keys like <kbd>Shift</kbd> for combinations.
+So, what's the solution? Well, we've got 26 character keys, 10 numbers, and 10 special keys to work with. And the cool thing about computer keyboards is that we can use combinations, like using <kbd>Shift</kbd> for added options. With some clever mapping, we can cover the entire piano keyboard with just 44 characters!
 
 ## Limitations
 
-There's a catch though. A musician might need two tones played concurrently, which is difficult if it is not a one-to-one mapping. For instance, it will be impossible to play the tones corresponding to the characters <kbd>c</kbd> and <kbd>Shift</kbd> + <kbd>c</kbd> simultaneously.
+But of course, there's a catch. Musicians often need to play two tones concurrently, which can get tricky with non-one-to-one mapping. Like, try playing <kbd>c</kbd> and <kbd>Shift</kbd> + <kbd>c</kbd> at the same time, it's like attempting to walk in two opposite directions with each foot - an impossible feet (pun intended) that defies the laws of physics.
 
-The best solution for this problem is to have the shorter black keys (sharps) have <kbd>Shift</kbd> + character combination as it's less used than other Normal flat tones. Upon further googling, I figured that a chord with both flats and sharps is uncommon and thus acceptable for our use case.
+But fret not, I've got a plan! I'll assign the shorter black keys (sharps) to <kbd>Shift</kbd> + character combinations, since they're less commonly used. And after some thorough Googling, turns out a chord with both flats and sharps is pretty uncommon, so it's all good for our use case!
 
 ## Implementation ideas
 
-The current plan is to make software that would run anywhere. I would love to do it in the programming language Rust. But, I am not sure how portable I can make it. So, I might consider making a web app with web assembly.
+Now, onto the implementation ideas. I'm thinking of making this software run anywhere, and I've got a soft spot for the Rust programming language. But hey, I'm not sure how portable that'll be, so I might consider making a web app with web assembly.
 
-I have plans to gamify this. I borrowed the idea from a popular app/game called "Piano tiles". There are black tiles that come pouring down the screen. All you have to do is tap when it is the right time and it plays sweet tones.
-
-"Piano Tiles" is an exceptional idea for an app. It is possible to blend some of that into this project; analyzing popular songs, ordering them based on difficulty, and then gamifying them. Unlike "Piano Tiles" the cool thing is that a person can play "real" music on this app instead of just wasting time playing.
+Oh, and here's the best part! I've got plans to gamify this whole thing, taking inspiration from a popular app/game called "Piano Tiles". Imagine black tiles pouring down the screen, and you gotta tap them at the right time to play sweet tunes! 🎶🎮 But unlike "Piano Tiles", you'll be playing real music, not just wasting time! 🎵
 
 If I move along with this idea, I plan to release it under an open-source license.
 
-I hope I will find enough time to complete this project despite all the placement, assignments, and part-time workload.
+Of course, with all the university placements, assignments, and part-time work, time might be a challenge, but hey, where there's a will, there's a way!
+
+## Update
+
+Good news (or bad?), everyone! I've been able to save up some money thanks to my internship as a compiler engineer, and I finally bought a real piano! So, I might have to scrap my "keyboard piano" project after all. Turns out, playing on an actual piano is a whole different ballgame. But hey, at least I won't be limited to just 44 keys anymore! Can't wait to unleash my musical talents on those real piano keys. Who knows, maybe I'll even learn to play a chord with both flats and sharps - take that, limitations! Cheers to chasing dreams.

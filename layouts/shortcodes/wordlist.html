@@ -1,6 +1,7 @@
-<!-- {{(index (.Site.Data.wordlist) 0).word}} -->
-<!-- {{(getJSON "http://api.devajith.com/word").word}} -->
-<span id="word_span">
+{{ $shuffled := shuffle (.Site.Data.wordlist) }}
+{{ $random := index $shuffled 0 }}
+{{$random.word}}
+<!-- <span id="word_span">
     <script>
         async function getWord() {
             const data = await fetch("https://api.devajith.com/word");
@@ -12,4 +13,4 @@
         getWord();
     </script>
 </span>
-  
+   -->
