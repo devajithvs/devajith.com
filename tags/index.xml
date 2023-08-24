@@ -7,11 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>See this site&#39;s source code [here](https://github.com/devajithvs/devajith.com), licensed under GPLv3 ·</copyright>
-    <lastBuildDate>Mon, 20 Mar 2023 12:57:39 +0000</lastBuildDate><atom:link href="https://devajith.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jul 2023 15:04:39 +0000</lastBuildDate><atom:link href="https://devajith.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
       <link>https://devajith.com/tags/blog/</link>
-      <pubDate>Mon, 20 Mar 2023 12:57:39 +0000</pubDate>
+      <pubDate>Mon, 24 Jul 2023 15:04:39 +0000</pubDate>
       
       <guid>https://devajith.com/tags/blog/</guid>
       <description></description>
@@ -20,9 +20,18 @@
     <item>
       <title>Personal</title>
       <link>https://devajith.com/tags/personal/</link>
-      <pubDate>Mon, 20 Mar 2023 12:57:39 +0000</pubDate>
+      <pubDate>Mon, 24 Jul 2023 15:04:39 +0000</pubDate>
       
       <guid>https://devajith.com/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>https://devajith.com/tags/project/</link>
+      <pubDate>Mon, 24 Jul 2023 15:04:39 +0000</pubDate>
+      
+      <guid>https://devajith.com/tags/project/</guid>
       <description></description>
     </item>
     

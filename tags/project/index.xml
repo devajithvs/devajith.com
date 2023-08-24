@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Project on Devajith</title>
+    <link>https://devajith.com/tags/project/</link>
+    <description>Recent content in Project on Devajith</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>See this site&#39;s source code [here](https://github.com/devajithvs/devajith.com), licensed under GPLv3 ·</copyright>
+    <lastBuildDate>Mon, 24 Jul 2023 15:04:39 +0000</lastBuildDate><atom:link href="https://devajith.com/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interactive MLIR query tool to make exploring the IR easier (Google Summer of Code 2023)</title>
+      <link>https://devajith.com/blog/gsoc-2023/</link>
+      <pubDate>Mon, 24 Jul 2023 15:04:39 +0000</pubDate>
+      
+      <guid>https://devajith.com/blog/gsoc-2023/</guid>
+      <description>A short summary of the work I&amp;#39;ve done for GSoC 2023</description>
+    </item>
+    
+  </channel>
+</rss>

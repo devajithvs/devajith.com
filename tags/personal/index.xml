@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>See this site&#39;s source code [here](https://github.com/devajithvs/devajith.com), licensed under GPLv3 ·</copyright>
-    <lastBuildDate>Mon, 20 Mar 2023 12:57:39 +0000</lastBuildDate><atom:link href="https://devajith.com/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jul 2023 15:04:39 +0000</lastBuildDate><atom:link href="https://devajith.com/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interactive MLIR query tool to make exploring the IR easier (Google Summer of Code 2023)</title>
+      <link>https://devajith.com/blog/gsoc-2023/</link>
+      <pubDate>Mon, 24 Jul 2023 15:04:39 +0000</pubDate>
+      
+      <guid>https://devajith.com/blog/gsoc-2023/</guid>
+      <description>A short summary of the work I&amp;#39;ve done for GSoC 2023</description>
+    </item>
+    
     <item>
       <title>About Me</title>
       <link>https://devajith.com/blog/about-me/</link>
@@ -32,7 +41,7 @@
       <pubDate>Sat, 26 Feb 2022 12:57:39 +0000</pubDate>
       
       <guid>https://devajith.com/blog/why-do-i-have-a-blog/</guid>
-      <description>Why? Get hired I use this blog as a clever tactic to attract awesome recruiters and companies who might want to hire me. It&amp;rsquo;s like my own personal job-hunting billboard. Improve my writing/language skills Okay, so maybe I&amp;rsquo;m not the next Shakespeare (yet), but I&amp;rsquo;m constantly working on it! Every time someone visits my blog, I learn a new word to add to my ever-growing vocabulary. And hey, if you see me in person, feel free to quiz me on the meaning of the word indomitable .</description>
+      <description>Why? Get hired I use this blog as a clever tactic to attract awesome recruiters and companies who might want to hire me. It&amp;rsquo;s like my own personal job-hunting billboard. Improve my writing/language skills Okay, so maybe I&amp;rsquo;m not the next Shakespeare (yet), but I&amp;rsquo;m constantly working on it! Every time someone visits my blog, I learn a new word to add to my ever-growing vocabulary. And hey, if you see me in person, feel free to quiz me on the meaning of the word insurrection .</description>
     </item>
     
   </channel>
