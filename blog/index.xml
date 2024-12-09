@@ -4,36 +4,24 @@
     <title>Blogs on Devajith</title>
     <link>https://devajith.com/blog/</link>
     <description>Recent content in Blogs on Devajith</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <copyright>See this site&#39;s source code [here](https://github.com/devajithvs/devajith.com), licensed under GPLv3 ·</copyright>
-    <lastBuildDate>Mon, 24 Jul 2023 15:04:39 +0000</lastBuildDate><atom:link href="https://devajith.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>See this site&amp;rsquo;s source code here, licensed under GPLv3 ·</copyright>
+    <lastBuildDate>Mon, 24 Jul 2023 15:04:39 +0000</lastBuildDate>
+    <atom:link href="https://devajith.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interactive MLIR query tool to make exploring the IR easier (Google Summer of Code 2023)</title>
       <link>https://devajith.com/blog/gsoc-2023/</link>
       <pubDate>Mon, 24 Jul 2023 15:04:39 +0000</pubDate>
-      
       <guid>https://devajith.com/blog/gsoc-2023/</guid>
       <description>A brief summary of my GSoC 2023 work</description>
     </item>
-    
-    <item>
-      <title>Why do I have a blog</title>
-      <link>https://devajith.com/blog/why-do-i-have-a-blog/</link>
-      <pubDate>Sat, 26 Feb 2022 12:57:39 +0000</pubDate>
-      
-      <guid>https://devajith.com/blog/why-do-i-have-a-blog/</guid>
-      <description>Why? Get hired I use this blog as a clever tactic to attract awesome recruiters and companies who might want to hire me. It&amp;rsquo;s like my own personal job-hunting billboard. Improve my writing/language skills I&amp;rsquo;m not the a good writer (yet), but I&amp;rsquo;m constantly working on it! Every time someone visits my blog, I learn a new word to add to my growing vocabulary. If you see me in person, feel free to quiz me on the meaning of the word arabesque .</description>
-    </item>
-    
     <item>
       <title>Tweedisc, a twitter integration bot</title>
       <link>https://devajith.com/blog/tweedisc/</link>
       <pubDate>Thu, 20 Jan 2022 12:57:39 +0000</pubDate>
-      
       <guid>https://devajith.com/blog/tweedisc/</guid>
       <description>An application to use Twitter without leaving the comfort of Discord</description>
     </item>
-    
   </channel>
 </rss>

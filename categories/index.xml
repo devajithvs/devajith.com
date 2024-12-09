@@ -4,8 +4,9 @@
     <title>Categories on Devajith</title>
     <link>https://devajith.com/categories/</link>
     <description>Recent content in Categories on Devajith</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <copyright>See this site&#39;s source code [here](https://github.com/devajithvs/devajith.com), licensed under GPLv3 ·</copyright><atom:link href="https://devajith.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>See this site&amp;rsquo;s source code here, licensed under GPLv3 ·</copyright>
+    <atom:link href="https://devajith.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

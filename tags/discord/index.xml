@@ -4,18 +4,17 @@
     <title>Discord on Devajith</title>
     <link>https://devajith.com/tags/discord/</link>
     <description>Recent content in Discord on Devajith</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <copyright>See this site&#39;s source code [here](https://github.com/devajithvs/devajith.com), licensed under GPLv3 ·</copyright>
-    <lastBuildDate>Thu, 20 Jan 2022 12:57:39 +0000</lastBuildDate><atom:link href="https://devajith.com/tags/discord/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>See this site&amp;rsquo;s source code here, licensed under GPLv3 ·</copyright>
+    <lastBuildDate>Thu, 20 Jan 2022 12:57:39 +0000</lastBuildDate>
+    <atom:link href="https://devajith.com/tags/discord/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tweedisc, a twitter integration bot</title>
       <link>https://devajith.com/blog/tweedisc/</link>
       <pubDate>Thu, 20 Jan 2022 12:57:39 +0000</pubDate>
-      
       <guid>https://devajith.com/blog/tweedisc/</guid>
       <description>An application to use Twitter without leaving the comfort of Discord</description>
     </item>
-    
   </channel>
 </rss>

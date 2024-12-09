@@ -4,72 +4,59 @@
     <title>Tags on Devajith</title>
     <link>https://devajith.com/tags/</link>
     <description>Recent content in Tags on Devajith</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.139.3</generator>
     <language>en</language>
-    <copyright>See this site&#39;s source code [here](https://github.com/devajithvs/devajith.com), licensed under GPLv3 ·</copyright>
-    <lastBuildDate>Mon, 24 Jul 2023 15:04:39 +0000</lastBuildDate><atom:link href="https://devajith.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>See this site&amp;rsquo;s source code here, licensed under GPLv3 ·</copyright>
+    <lastBuildDate>Mon, 24 Jul 2023 15:04:39 +0000</lastBuildDate>
+    <atom:link href="https://devajith.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
       <link>https://devajith.com/tags/blog/</link>
       <pubDate>Mon, 24 Jul 2023 15:04:39 +0000</pubDate>
-      
       <guid>https://devajith.com/tags/blog/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Personal</title>
       <link>https://devajith.com/tags/personal/</link>
       <pubDate>Mon, 24 Jul 2023 15:04:39 +0000</pubDate>
-      
       <guid>https://devajith.com/tags/personal/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Project</title>
       <link>https://devajith.com/tags/project/</link>
       <pubDate>Mon, 24 Jul 2023 15:04:39 +0000</pubDate>
-      
       <guid>https://devajith.com/tags/project/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Discord</title>
       <link>https://devajith.com/tags/discord/</link>
       <pubDate>Thu, 20 Jan 2022 12:57:39 +0000</pubDate>
-      
       <guid>https://devajith.com/tags/discord/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Integration</title>
       <link>https://devajith.com/tags/integration/</link>
       <pubDate>Thu, 20 Jan 2022 12:57:39 +0000</pubDate>
-      
       <guid>https://devajith.com/tags/integration/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Tweet</title>
       <link>https://devajith.com/tags/tweet/</link>
       <pubDate>Thu, 20 Jan 2022 12:57:39 +0000</pubDate>
-      
       <guid>https://devajith.com/tags/tweet/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Twitter</title>
       <link>https://devajith.com/tags/twitter/</link>
       <pubDate>Thu, 20 Jan 2022 12:57:39 +0000</pubDate>
-      
       <guid>https://devajith.com/tags/twitter/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
